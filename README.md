@@ -1,6 +1,6 @@
 ## Intro
 
-Short test on how easy zettajs (http://www.zettajs.org/) can be deployed on a CloudFoundry compatible Cloud. 
+Simple example app on how easy zettajs (http://www.zettajs.org/) can be deployed on a CloudFoundry compatible Cloud (like the one from Swisscom ;)). 
 Can be tested with using the zetta browser: http://browser.zettajs.io/#/
 
 ## Code Example
