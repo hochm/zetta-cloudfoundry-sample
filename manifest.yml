@@ -1,0 +1,9 @@
+---
+applications:
+- name: zetta
+  memory: 256M
+  instances: 1
+  host: zetta
+  path: .
+  command: node app.js
+  domain: nova.scapp.io

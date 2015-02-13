@@ -1,0 +1,12 @@
+{
+  "name": "cf-zettajs",
+  "version": "0.0.1",
+  "author": "Marco Hochstrasser",
+  "dependencies": {
+    "zetta": "0.20.0"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
